@@ -12,7 +12,7 @@
 ## 安装步骤
 1. 把本项目的代码克隆到本地：
 ```bash
-git clone https://github.com/your-repo/auto-forms.git
+git clone https://github.com/unsiao/autoforms.git
 ```
 2. 打开 Chrome 浏览器，在地址栏输入 `chrome://extensions` 并回车，进入扩展程序管理页面。
 3. 开启右上角的“开发者模式”。
